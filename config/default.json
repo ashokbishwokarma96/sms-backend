@@ -1,0 +1,14 @@
+{
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "inventorySystem",
+    "username": "",
+    "password": ""
+  },
+  "authenticate": {
+    "clientSession": {
+      "secretKey": "AshokHair"
+    }
+  }
+}
